@@ -1,7 +1,7 @@
 # anv1461fancontrol
 Fan control daemon for Acer Nitro V14 (ANV 14-61) on Linux
 
-Couldn't get NBFC to work
+Couldn't get NBFC to work so wrote this thing
 
 ## Build
 ```
